@@ -8,7 +8,7 @@ The goal of this project was to analyze the requirements and design the structur
 
 ## Project Structure
 
-""" 
+```
 Practicum Projects/
 │
 ├── README.md
@@ -19,7 +19,7 @@ Practicum Projects/
 ├── Диаграмма структуры интерфейса Stets Home.drawio
 ├── Прототип в Figma.pdf
 └── Программа и методика испытаний (ПМИ).pdf
-"""
+```
 
 ## Project Objectives
 - Identify the needs and expectations of potential users.
