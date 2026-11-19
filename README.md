@@ -6,6 +6,18 @@ Stets Home is a conceptual smart home management application designed to help us
 
 The goal of this project was to analyze the requirements and design the structure and functionality of the proposed application.
 
+## Project Structure
+
+Practicum Projects/
+│
+├── README.md
+├── Карта пользовательских историй Stets Home в Miro .docs
+├── DFD контекстного и логического уровня Stets Home.drawio
+├── ER модель Stets Home.drawio
+├── Словарь_данных.docs
+├── Диаграмма структуры интерфейса Stets Home.drawio
+├── Прототип в Figma.pdf
+└── Программа и методика испытаний (ПМИ).pdf
 
 ## Project Objectives
 - Identify the needs and expectations of potential users.
