@@ -8,6 +8,7 @@ The goal of this project was to analyze the requirements and design the structur
 
 ## Project Structure
 
+""" 
 Practicum Projects/
 │
 ├── README.md
