@@ -30,3 +30,13 @@ Tools & Technologies:
 - BPMN
 - DFD
 - ERD
+
+Conclusions
+
+The Stets Home project provided an opportunity to apply system analysis approaches to the design of a smart home management application.
+
+The analysis helped establish the core functionality of the proposed system, define relationships between its components, and translate user needs into structured requirements.
+
+As a result, the project includes a documented system concept, data models, process diagrams, and a UI prototype that can serve as a foundation for future development.
+
+This project strengthened my understanding of how system analysis connects business needs, user expectations, and technical solutions.
