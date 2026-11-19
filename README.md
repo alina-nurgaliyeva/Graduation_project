@@ -1,6 +1,6 @@
 # Stets Home — Smart Home Management Application
 
-Project Overview:
+## Project Overview:
 
 Stets Home is a conceptual smart home management application designed to help users monitor and control connected home devices through a single interface.
 
