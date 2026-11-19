@@ -7,7 +7,7 @@ Stets Home is a conceptual smart home management application designed to help us
 The goal of this project was to analyze the requirements and design the structure and functionality of the proposed application.
 
 
-## Project Objectives: 
+## Project Objectives
 - Identify the needs and expectations of potential users.
 - Define functional and non-functional requirements.
 - Model business processes and system interactions.
@@ -15,7 +15,7 @@ The goal of this project was to analyze the requirements and design the structur
 - Develop a user interface prototype.
 - Prepare testing documentation.
 
-##Project Deliverables:
+##Project Deliverables
 - Requirements specification
 - User Stories and User Story Map
 - Context and Logical DFD diagrams
@@ -24,7 +24,7 @@ The goal of this project was to analyze the requirements and design the structur
 - Prototype in Figma
 - Test Plan and Test Cases
 
-##Tools & Technologies:
+##Tools & Technologies
 - Figma
 - UML
 - BPMN
