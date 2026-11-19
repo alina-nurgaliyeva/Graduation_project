@@ -19,6 +19,7 @@ Practicum Projects/
 ├── Диаграмма структуры интерфейса Stets Home.drawio
 ├── Прототип в Figma.pdf
 └── Программа и методика испытаний (ПМИ).pdf
+"""
 
 ## Project Objectives
 - Identify the needs and expectations of potential users.
